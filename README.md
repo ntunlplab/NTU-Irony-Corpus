@@ -1,4 +1,4 @@
-# NTU-Irony-Corpus
+# NTU Irony Corpus
 
 # Introduction
 The NTU Irony Corpus consists of more than 1,000 microblog messages collected from the Plurk website. All the messages in the corpus are in Traditional Chinese and have been confirmed to be ironic. They are marked with three types of labels: (1) ironic word/phrase , (2) context, and (3) rhetoric element.
