@@ -7,7 +7,7 @@ The NTU Irony Corpus consists of more than 1,000 microblog messages collected fr
 Example:
 
 
-```
+```xml
 <context sentiment="pos">才剛買的書，竟然掉頁了，</context>這品質<rhetoric>也太</rhetoric><ironic sentiment="neg">好</ ironic>了<rhetoric>吧</rhetoric>
 ```
 
