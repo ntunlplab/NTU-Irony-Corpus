@@ -19,8 +19,8 @@ Tag description:
 \<ccontext\> represents contextual information. The sentiment attribute indicates whether it is positive or negative.  
 \<crhetoric\> represents rhetorical elements.  
 
-# Download
-Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/irony_corpus/NTU_Irony_Corpus.txt) to download data.
+# Download Data
+Download ```NTU_Irony_Corpus.txt``` for the data.
 
 # How to Cite the Corpus
 Please cite the following paper when referring to the NTU Irony Corpus in academic publications and papers.
