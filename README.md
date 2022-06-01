@@ -20,7 +20,7 @@ Tag description:
 \<crhetoric\> represents rhetorical elements.  
 
 # Download
-Please go to [resources page](http://nlg.csie.ntu.edu.tw/nlpresource/irony_corpus/) to access resources.
+Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/irony_corpus/NTU_Irony_Corpus.txt) to download data.
 
 # How to Cite the Corpus
 Please cite the following paper when referring to the NTU Irony Corpus in academic publications and papers.
